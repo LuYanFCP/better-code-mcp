@@ -1,0 +1,16 @@
+[project]
+name = "better-code-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastmcp>=2.3.4",
+]
+
+[dependency-groups]
+dev = [
+    "pyright>=1.1.400",
+    "ruff>=0.11.10",
+    "ty>=0.0.1a5",
+]

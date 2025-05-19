@@ -1,0 +1,3 @@
+# BetterCodeMcp
+
+## What is BetterCodeMcp?
